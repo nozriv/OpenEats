@@ -346,7 +346,7 @@ msgstr "relations"
 #: recipe/models.py:65 recipe/models.py:76 recipe_groups/models.py:9
 #: recipe_groups/models.py:26
 msgid "author"
-msgstr "autor"
+msgstr "auteur"
 
 #: recipe/models.py:66
 msgid "note"
