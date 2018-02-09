@@ -194,8 +194,8 @@ msgstr "Courrier envoyé"
 
 #: list/models.py:8
 #, fuzzy
-msgid "Liste d\'achat"
-msgstr "lista de la compra"
+msgid "grocery list title"
+msgstr "liste achat"
 
 #: list/models.py:9 news/models.py:7 recipe/models.py:19
 #: recipe_groups/models.py:8 recipe_groups/models.py:25
@@ -232,51 +232,51 @@ msgstr "Votre liste d'ingrédients a été supprimée."
 
 #: list/views.py:59 list/views.py:63
 msgid "You do not have permissions to edit this list "
-msgstr "Usted no tiene permisos para editar esta lista"
+msgstr "Vous n'avez pas la permission d'éditer cette liste"
 
 #: list/views.py:97 list/views.py:101
 msgid "You do not have permissions to view this list "
-msgstr "Usted no tiene permisos para ver esta lista"
+msgstr "Vous n'avez pas la permission de voir cette liste"
 
 #: list/views.py:164
 msgid "Your grocery list has been shared."
-msgstr "Su lista de la compra ha sido compartida."
+msgstr "Votre liste de course a été partagée."
 
 #: list/views.py:178
 #, fuzzy
 msgid "Grocery List has been un-shared"
-msgstr "Su lista de la compra ha sido compartida."
+msgstr "La liste de courses n'est plus partagée."
 
 #: list/views.py:205
 #, fuzzy
 msgid "New Aisle added"
-msgstr "nueva receta añadido"
+msgstr "Nouvelle recette ajoutée"
 
 #: news/models.py:8
 msgid "content"
-msgstr "contenido"
+msgstr "contenu"
 
 #: news/models.py:9
 msgid "frontpage"
-msgstr ""
+msgstr "page de garde"
 
 #: news/models.py:10
 msgid "image"
-msgstr "imagen"
+msgstr "image"
 
 #: pagination/templates/pagination/pagination.html:6
 #: pagination/templates/pagination/pagination.html:8
 #: templates/pagination/pagination.html:7
 #: templates/pagination/pagination.html:9
 msgid "previous"
-msgstr "anterior"
+msgstr "précédent"
 
 #: pagination/templates/pagination/pagination.html:22
 #: pagination/templates/pagination/pagination.html:24
 #: templates/pagination/pagination.html:23
 #: templates/pagination/pagination.html:25
 msgid "next"
-msgstr "siguiente"
+msgstr "suivant"
 
 #: recipe/forms.py:72
 #, fuzzy
@@ -288,31 +288,31 @@ msgstr ""
 #: recipe/forms.py:90
 #, fuzzy
 msgid " recipe: "
-msgstr "receta"
+msgstr "recette"
 
 #: recipe/models.py:14
 msgid "Share"
-msgstr "Compartir"
+msgstr "Partager"
 
 #: recipe/models.py:15
 msgid "Private"
-msgstr "Privada"
+msgstr "Privé"
 
 #: recipe/models.py:18
 msgid "Recipe Title"
-msgstr "Receta Título"
+msgstr "Titre de la recette"
 
 #: recipe/models.py:21
 msgid "photo"
-msgstr "foto"
+msgstr "photo"
 
 #: recipe/models.py:22
 msgid "course"
-msgstr "Por supuesto"
+msgstr "course"
 
 #: recipe/models.py:23
 msgid "cuisine"
-msgstr "cocina"
+msgstr "cuisine"
 
 #: recipe/models.py:24 templates/profiles/profile_detail.html:47
 msgid "info"
@@ -321,27 +321,27 @@ msgstr "Info"
 #: recipe/models.py:25 templates/recipe/recipe_detail.html:167
 #: templates/recipe/recipe_print.html:24
 msgid "cook time"
-msgstr "tiempo de cocción"
+msgstr "temps de cuisson"
 
 #: recipe/models.py:26
 msgid "servings"
-msgstr "porciones"
+msgstr "portions"
 
 #: recipe/models.py:27
 msgid "directions"
-msgstr "direcciones"
+msgstr "indications"
 
 #: recipe/models.py:28
 msgid "shared"
-msgstr "compartida"
+msgstr "partagé"
 
 #: recipe/models.py:29
 msgid "tags"
-msgstr "las etiquetas"
+msgstr "tags"
 
 #: recipe/models.py:31
 msgid "related"
-msgstr "relacionados"
+msgstr "relations"
 
 #: recipe/models.py:65 recipe/models.py:76 recipe_groups/models.py:9
 #: recipe_groups/models.py:26
