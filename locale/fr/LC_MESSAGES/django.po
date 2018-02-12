@@ -350,87 +350,87 @@ msgstr "auteur"
 
 #: recipe/models.py:66
 msgid "note"
-msgstr "nota"
+msgstr "note"
 
 #: recipe/views.py:47 recipe/views.py:61
 #, python-format
 msgid "Recipe %s is marked Private"
-msgstr "Receta% s está marcado privada"
+msgstr "La recette %s est marquée privée"
 
 #: recipe/views.py:135
 msgid "Recipe already in your favorites!"
-msgstr "Receta ya en tus favoritos!"
+msgstr "La recette est déjà dans vos favoris!"
 
 #: recipe/views.py:141
 msgid "Recipe added to your favorites!"
-msgstr "Receta añadido a tus favoritos!"
+msgstr "Recette ajoutée à vos favoris!"
 
 #: recipe/views.py:270
 msgid "Recipe has already been reported!"
-msgstr "Receta ya ha sido reportado!"
+msgstr "La recette a déjà été indiquée!"
 
 #: recipe/views.py:275
 msgid "Recipe reported to the moderators!"
-msgstr "Receta informó a los moderadores!"
+msgstr "RLa recette a été rapportée aux modérateurs!"
 
 #: templates/404.html:3
 msgid "we could not find what you are looking for"
-msgstr "No se han encontrado lo que busca"
+msgstr "Nous ne trouvons pas ce que vous cherchez"
 
 #: templates/404.html:7
 msgid ""
 "Our chef's ruined this recipe in the test kitchen, we suggest you try "
 "something else"
 msgstr ""
-"Nuestro chef ha arruinado esta receta en la cocina de la prueba, le "
-"sugerimos probar otra cosa"
+"Notre chef a ruiné cette recette dans un test culinaire, nous suggérons "
+"de tester autre chose."
 
 #: templates/404.html:9
 msgid ""
 "Sorry the page came back with a 404 error we can't find what you are looking "
 "for"
 msgstr ""
-"Lo sentimos la página volvió con un error 404 que no puede encontrar lo que "
+"Sorry une erreur 404nous est rapporté pour votre demande "
 "busca"
 
 #: templates/404.html:10
 msgid "return to site"
-msgstr "volver al sitio"
+msgstr "vretourner au site"
 
 #: templates/base.html:13
 msgid "Top Recipe Feed"
-msgstr "Receta de alimentación superior"
+msgstr "Recette de qualité supérieur"
 
 #: templates/base.html:48 templates/profiles/create_profile.html:5
 #: templates/profiles/edit_profile.html:6
 #: templates/profiles/profile_detail.html:7
 #: templates/profiles/profile_detail.html:39
 msgid "profile"
-msgstr "Ver el perfil"
+msgstr "Vers le profil"
 
 #: templates/base.html:49
 msgid "grocery lists"
-msgstr "listas de la compra"
+msgstr "liste d'achat"
 
 #: templates/base.html:51 templates/profiles/profile_detail.html:86
 msgid "logout"
-msgstr "cierre de sesión"
+msgstr "Fin de session"
 
 #: templates/accounts/signIn_page.html:19
 msgid "sign in"
-msgstr "ingresar"
+msgstr "Se connecter"
 
 #: templates/accounts/signIn_page.html:20
 msgid "sign up"
-msgstr "regístrate"
+msgstr "s'enregistrer"
 
 #: templates/friends/_feed.html:8
 msgid "new recipe added- "
-msgstr "nueva receta añadido"
+msgstr "nouvelle recette ajoutée"
 
 #: templates/friends/_feed.html:16
 msgid "rated a recipe "
-msgstr "nominal una receta"
+msgstr "coter une recette"
 
 #: templates/friends/_feed.html:16
 msgid "out of 5 - "
@@ -438,31 +438,31 @@ msgstr "de 5 -"
 
 #: templates/friends/_feed.html:26
 msgid "new shared list- "
-msgstr "nueva lista compartida"
+msgstr "nouvelle liste paratgée"
 
 #: templates/friends/feed.html:5
 msgid "feed for "
-msgstr "la alimentación de"
+msgstr "Aliment tation pour"
 
 #: templates/friends/list.html:7
 msgid "chefs I'm following-"
-msgstr "chefs estoy siguiendo-"
+msgstr "chefs je suis-"
 
 #: templates/friends/list.html:14
 msgid "un-follow"
-msgstr "de las Naciones Unidas de seguir"
+msgstr "dSuivre les nations Unies"
 
 #: templates/friends/list.html:22
 msgid "chefs following me-"
-msgstr "chefs me sigue-"
+msgstr "Les chefs qui me suivent-"
 
 #: templates/friends/list.html:29
 msgid "follow"
-msgstr "seguir"
+msgstr "suivre"
 
 #: templates/friends/list.html:29
 msgid "block"
-msgstr "bloque"
+msgstr "bloquer"
 
 #: templates/friends/list.html:37
 #, fuzzy
