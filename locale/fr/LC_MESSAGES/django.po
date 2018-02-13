@@ -590,53 +590,52 @@ msgstr "éditer"
 
 #: templates/profiles/edit_profile.html:15
 msgid "To change your profile picture you will need to create/login to"
-msgstr "Para cambiar su foto de perfil que se necesita para crear o acceder a"
+msgstr "Pour changer votre photo de profil vous devez être connecté"
 
 #: templates/profiles/edit_profile.html:15
 msgid "Gravata"
-msgstr ""
+msgstr "Gravata"
 
 #: templates/profiles/edit_profile.html:15
 msgid "using the same email address you used for this site"
 msgstr ""
-"utilizando la misma dirección de correo electrónico que utilizó para este "
-"sitio"
+"Utilisant la même adresse email utilisée sur ce site"
 
 #: templates/profiles/edit_profile.html:28
 msgid "Change Password"
-msgstr "Cambiar contraseña"
+msgstr "Changer de mot de pass"
 
 #: templates/profiles/profile_detail.html:49
 msgid "location:"
-msgstr "Ubicación:"
+msgstr "Endroit:"
 
 #: templates/profiles/profile_detail.html:52
 msgid "gender:"
-msgstr "género:"
+msgstr "genre:"
 
 #: templates/profiles/profile_detail.html:55
 msgid "website:"
-msgstr "página web:"
+msgstr "Site web:"
 
 #: templates/profiles/profile_detail.html:62
 msgid "all about me"
-msgstr "todo acerca de mí"
+msgstr "Apropos de moi"
 
 #: templates/profiles/profile_detail.html:70
 msgid "recipes"
-msgstr "recetas"
+msgstr "recettes"
 
 #: templates/profiles/profile_detail.html:72
 msgid "private recipes"
-msgstr "recetas privadas"
+msgstr "recettes privées"
 
 #: templates/profiles/profile_detail.html:73
 msgid "favorites"
-msgstr "los favoritos"
+msgstr "favoris"
 
 #: templates/profiles/profile_detail.html:75
 msgid "followers"
-msgstr "seguidores"
+msgstr "followers"
 
 #: templates/profiles/profile_detail.html:76
 msgid "feed"
@@ -644,16 +643,16 @@ msgstr "piensos"
 
 #: templates/profiles/profile_detail.html:77
 msgid "settings"
-msgstr "configuración"
+msgstr "configuration"
 
 #: templates/profiles/profile_detail.html:84
 msgid "edit Profile"
-msgstr "Editar Perfil"
+msgstr "Editer le profil"
 
 #: templates/profiles/profile_detail.html:85
 #: templates/registration/password_change_form.html:16
 msgid "change password"
-msgstr "cambiar la contraseña"
+msgstr "Changer le mot de passe"
 
 #: templates/recipe/_list.html:29 templates/recipe/recipe_detail.html:155
 #: templates/recipe/recipe_print.html:17 templates/search/search.html:38
@@ -662,27 +661,27 @@ msgstr "Chef:"
 
 #: templates/recipe/_list.html:32 templates/search/search.html:41
 msgid "Average Rating:"
-msgstr "Valoración media:"
+msgstr "Vote moyen:"
 
 #: templates/recipe/_list.html:34 templates/recipe/recipe_detail.html:143
 #: templates/search/search.html:43
 msgid "Poor"
-msgstr "Pobres"
+msgstr "Faible"
 
 #: templates/recipe/_list.html:35 templates/recipe/recipe_detail.html:144
 #: templates/search/search.html:44
 msgid "Fair"
-msgstr "Feria"
+msgstr "Moyen"
 
 #: templates/recipe/_list.html:36 templates/recipe/recipe_detail.html:145
 #: templates/search/search.html:45
 msgid "OK"
-msgstr "Aceptar"
+msgstr "Accepter"
 
 #: templates/recipe/_list.html:37 templates/recipe/recipe_detail.html:146
 #: templates/search/search.html:46
 msgid "Good"
-msgstr "Bueno"
+msgstr "Bien"
 
 #: templates/recipe/_list.html:38 templates/recipe/recipe_detail.html:147
 #: templates/search/search.html:47
@@ -692,7 +691,7 @@ msgstr "Wow"
 #: templates/recipe/index.html:41
 #, fuzzy
 msgid "recipe tags"
-msgstr "Receta Etiquetas"
+msgstr "Etiquette de recette"
 
 #: templates/recipe/recipe_cook.html:8 templates/recipe/recipe_print.html:14
 msgid "Recipe is marked Private and you are not the author of it!"
@@ -1131,128 +1130,3 @@ msgstr "informó!"
 msgid "report"
 msgstr "informe"
 
-#~ msgid "Search"
-#~ msgstr "Búsqueda"
-
-#, fuzzy
-#~ msgid "create list"
-#~ msgstr "crear"
-
-#~ msgid "Fresh from the Oven!"
-#~ msgstr "Recién salido del horno!"
-
-#~ msgid "chef: "
-#~ msgstr "chef:"
-
-#, fuzzy
-#~ msgid "more recent recipes"
-#~ msgstr "ver recetas"
-
-#~ msgid "Cook View"
-#~ msgstr "Cook Ver"
-
-#~ msgid "New Recipe"
-#~ msgstr "Nueva receta"
-
-#~ msgid "OpenEats"
-#~ msgstr "OpenEats"
-
-#~ msgid "OpenEats2"
-#~ msgstr "OpenEats2"
-
-#~ msgid "OpenEats Grocery List"
-#~ msgstr "OpenEats lista de compras"
-
-#~ msgid "OpenEats Email"
-#~ msgstr "OpenEats correo electrónico"
-
-#~ msgid "OpenEats Print"
-#~ msgstr "OpenEats Imprimir"
-
-#~ msgid "OpenEats | Add Recipe"
-#~ msgstr "OpenEats | Añadir Receta"
-
-#~ msgid "OpenEats - Login"
-#~ msgstr "OpenEats - Ingresar"
-
-#~ msgid "Go"
-#~ msgstr "Bueno"
-
-#~ msgid "View on site"
-#~ msgstr "Volver al sitio"
-
-#~ msgid "Add %(name)s"
-#~ msgstr "Añadir %(campo)s "
-
-#~ msgid "Filter"
-#~ msgstr "tema"
-
-#~ msgid "Export"
-#~ msgstr "informe"
-
-#~ msgid "Delete"
-#~ msgstr "eliminar"
-
-#~ msgid "Password:"
-#~ msgstr "Nueva contraseña:"
-
-#~ msgid "User"
-#~ msgstr "usuario"
-
-#~ msgid "Action"
-#~ msgstr "acciones"
-
-#~ msgid "Created object"
-#~ msgstr "Creación de"
-
-#~ msgid "Change"
-#~ msgstr "Cancelar"
-
-#~ msgid "You don´t have permission to edit anything."
-#~ msgstr "Usted no tiene permisos para editar esta lista"
-
-#~ msgid "My Actions"
-#~ msgstr "acciones"
-
-#~ msgid "Documentation"
-#~ msgstr "Django documentación"
-
-#~ msgid "Django administration"
-#~ msgstr "Django documentación"
-
-#~ msgid "Password"
-#~ msgstr "De restablecimiento de contraseña"
-
-#~ msgid "Password (again)"
-#~ msgstr "De restablecimiento de contraseña"
-
-#~ msgid "Password change"
-#~ msgstr "Contraseña cambiada con éxito"
-
-#~ msgid "Delete Item"
-#~ msgstr "eliminar"
-
-#~ msgid "Bookmarklets"
-#~ msgstr "bookmakred"
-
-#~ msgid "Log in again"
-#~ msgstr "Registrarse"
-
-#~ msgid "Password change successful"
-#~ msgstr "Contraseña cambiada con éxito"
-
-#~ msgid ""
-#~ "Please enter your old password, for securitys sake, and then enter your "
-#~ "new password twice so we can verify you typed it in correctly."
-#~ msgstr ""
-#~ "Por favor, introduzca su nueva contraseña dos veces para que podamos "
-#~ "verificar que la ha escrito correctamente."
-
-#~ msgid "Old password:"
-#~ msgstr "Nueva contraseña:"
-
-#~ msgid "Password reset confirmation"
-#~ msgstr "De restablecimiento de contraseña completa"
-
-#~ msgid "servers"
-#~ msgstr "servidores"
