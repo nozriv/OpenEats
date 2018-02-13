@@ -371,7 +371,7 @@ msgstr "La recette a déjà été indiquée!"
 
 #: recipe/views.py:275
 msgid "Recipe reported to the moderators!"
-msgstr "RLa recette a été rapportée aux modérateurs!"
+msgstr "La recette a été rapportée aux modérateurs!"
 
 #: templates/404.html:3
 msgid "we could not find what you are looking for"
@@ -391,11 +391,11 @@ msgid ""
 "for"
 msgstr ""
 "Sorry une erreur 404nous est rapporté pour votre demande "
-"busca"
+
 
 #: templates/404.html:10
 msgid "return to site"
-msgstr "vretourner au site"
+msgstr "retourner au site"
 
 #: templates/base.html:13
 msgid "Top Recipe Feed"
@@ -467,30 +467,30 @@ msgstr "bloquer"
 #: templates/friends/list.html:37
 #, fuzzy
 msgid "chefs I'm blocking-"
-msgstr "chefs estoy bloqueo -"
+msgstr "chefs je suis bloqué -"
 
 #: templates/friends/list.html:44
 msgid "unblock"
-msgstr "desbloquear"
+msgstr "débloquer"
 
 #: templates/list/_aisles.html:19
 msgid "Current Aisles"
-msgstr "Los pasillos actual"
+msgstr "Les plats actuels"
 
 #: templates/list/_aisles.html:24
 #, fuzzy
 msgid "you have not created any aisles yet!"
-msgstr "Usted no ha añadido ningún recetas favoritas todavía!"
+msgstr "Vous n'avez créé aucune recette favorite actuellement"
 
 #: templates/list/_list.html:10 templates/list/grocery_index.html:13
 msgid "created on "
-msgstr "Creación de"
+msgstr "Créé le"
 
 #: templates/list/grocery_addrecipe.html:11
 #: templates/list/grocery_share.html:8 templates/list/groceryaisle_form.html:9
 #, fuzzy
 msgid "save"
-msgstr "Compartir"
+msgstr "Sauvegarder"
 
 #: templates/list/grocery_addrecipe.html:12
 #: templates/list/grocery_share.html:9
@@ -499,94 +499,94 @@ msgstr "Compartir"
 #: templates/recipe/recipe_form.html:164
 #, fuzzy
 msgid "cancel"
-msgstr "Cancelar"
+msgstr "Annuler"
 
 #: templates/list/grocery_ajax.html:29
 msgid "You have not added any grocery list yet!"
-msgstr "Usted no ha añadido ninguna lista de la compra todavía!"
+msgstr "Vous n'avez ajouté aucune liste de corses actuellement"
 
 #: templates/list/grocery_ajax.html:30 templates/list/grocery_index.html:24
 msgid "create a grocery list"
-msgstr "crear una lista de la compra"
+msgstr "créer une lista de course"
 
 #: templates/list/grocery_detail.html:8
 msgid "this list is currently shared by"
-msgstr "esta lista está compartida por"
+msgstr "Cette liste est actuellemet partagée par"
 
 #: templates/list/grocery_detail.html:8
 msgid "to user"
-msgstr "para el usuario"
+msgstr "àl'utilisateur
 
 #: templates/list/grocery_detail.html:11
 msgid "grocery list -"
-msgstr "lista de la compra -"
+msgstr "lista de course -"
 
 #: templates/list/grocery_index.html:3
 #, fuzzy
 msgid "Grocery List"
-msgstr "lista de la compra"
+msgstr "liste de course"
 
 #: templates/list/grocery_index.html:23
 msgid "You do not have any grocery list created"
-msgstr "Usted no tiene ninguna lista de la compra creado"
+msgstr "Vous n'avez aucune liste de course créée"
 
 #: templates/list/grocery_index.html:28
 msgid "shared list"
-msgstr "compartida lista"
+msgstr "Liste partagée"
 
 #: templates/list/grocery_index.html:34
 msgid "shared by "
-msgstr "compartida por"
+msgstr "partagé par"
 
 #: templates/list/grocery_mail_body.html:8
 #: templates/recipe/recipe_mail_body.html:8
 #, fuzzy
 msgid "Email"
-msgstr "correo electrónico"
+msgstr "Courriel"
 
 #: templates/list/grocery_mail_body.html:13
 #: templates/list/grocery_print.html:14
 msgid "grocery list "
-msgstr "lista de la compra"
+msgstr "liste de course"
 
 #: templates/list/grocery_print.html:8 templates/recipe/recipe_print.html:9
 #, fuzzy
 msgid "Print"
-msgstr "de impresión"
+msgstr "Imprimer"
 
 #: templates/list/groceryaisle_form.html:5
 msgid "add new aisle"
-msgstr "Añadir nuevo pasillo"
+msgstr "ajouter un nouvel élément"
 
 #: templates/list/grocerylist_form.html:29
 msgid "items"
-msgstr "artículos"
+msgstr "artícles"
 
 #: templates/list/grocerylist_form.html:50
 #, fuzzy
 msgid "save list"
-msgstr "compartida lista"
+msgstr "enregistrer la liste
 
 #: templates/news/entry_list.html:4
 #, fuzzy
 msgid "news"
-msgstr "pasillo"
+msgstr "nouvelles"
 
 #: templates/news/entry_list.html:13 templates/news/front_page.html:11
 #: templates/recipe/_list.html:47 templates/search/search.html:56
 #, fuzzy
 msgid "read more"
-msgstr "Leer más"
+msgstr "Lire plus"
 
 #: templates/news/entry_list.html:18
 msgid "There currently isn't any news"
-msgstr ""
+msgstr "Il n'y a actuellement pas de nouvelles"
 
 #: templates/profiles/create_profile.html:5
 #: templates/profiles/edit_profile.html:6
 #: templates/recipe/recipe_detail.html:119
 msgid "edit"
-msgstr "edición"
+msgstr "éditer"
 
 #: templates/profiles/edit_profile.html:15
 msgid "To change your profile picture you will need to create/login to"
