@@ -34,7 +34,7 @@ TIME_ZONE = 'Europe/Brussels'
 
 # Language code for this installation. All choices can be found here:
 # http://www.i18nguy.com/unicode/language-identifiers.html
-LANGUAGE_CODE = 'fr-BE'
+LANGUAGE_CODE = 'en-GB'
 
 # Hosts/domain names that are valid for this site; required if DEBUG is False
 # See https://docs.djangoproject.com/en/1.5/ref/settings/#allowed-hosts
