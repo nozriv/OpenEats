@@ -695,90 +695,90 @@ msgstr "Etiquette de recette"
 
 #: templates/recipe/recipe_cook.html:8 templates/recipe/recipe_print.html:14
 msgid "Recipe is marked Private and you are not the author of it!"
-msgstr "Receta se marca privada y usted no es el autor de la misma!"
+msgstr "Cette recette est marquée privée et vous n'en êtes pas auteur!"
 
 #: templates/recipe/recipe_cook.html:15
 #: templates/recipe/recipe_detail.html:183
 #: templates/recipe/recipe_print.html:28
 msgid "Ingredients"
-msgstr "Ingredientes"
+msgstr "Ingrédients"
 
 #: templates/recipe/recipe_cook.html:32
 #: templates/recipe/recipe_detail.html:201
 msgid "Directions"
-msgstr "Cómo llegar"
+msgstr "Préparation"
 
 #: templates/recipe/recipe_detail.html:115
 msgid "print"
-msgstr "de impresión"
+msgstr "Imprimer"
 
 #: templates/recipe/recipe_detail.html:116
 msgid "cook"
-msgstr "cocinar"
+msgstr "cuisiner"
 
 #: templates/recipe/recipe_detail.html:126
 msgid "add to list"
-msgstr "añadir a la lista"
+msgstr "ajouter à la liste"
 
 #: templates/recipe/recipe_detail.html:127
 #, fuzzy
 msgid "email recipe "
-msgstr "nominal una receta"
+msgstr "Rectte par courriel"
 
 #: templates/recipe/recipe_detail.html:127
 #, fuzzy
 msgid "email"
-msgstr "correo electrónico"
+msgstr "courriel"
 
 #: templates/recipe/recipe_detail.html:133
 msgid "tags:"
-msgstr "tags:"
+msgstr "étiquettes:"
 
 #: templates/recipe/recipe_detail.html:141
 msgid "rate this:"
-msgstr "puntuar este:"
+msgstr "quoter ceci:"
 
 #: templates/recipe/recipe_detail.html:166
 #: templates/recipe/recipe_print.html:23
 msgid "serves"
-msgstr "sirve"
+msgstr "service"
 
 #: templates/recipe/recipe_detail.html:172
 msgid "Course:"
-msgstr "Curso:"
+msgstr "Plat:"
 
 #: templates/recipe/recipe_detail.html:173
 msgid "Cuisine:"
-msgstr "Cocina:"
+msgstr "Cuisine:"
 
 #: templates/recipe/recipe_detail.html:211
 #: templates/recipe/recipe_print.html:52
 msgid "Your Notes:"
-msgstr "Tus Notas:"
+msgstr "Votre note:"
 
 #: templates/recipe/recipe_detail.html:224
 msgid "comments"
-msgstr "comentarios"
+msgstr "commentaires"
 
 #: templates/recipe/recipe_form.html:5
 #, fuzzy
 msgid "Add Recipe"
-msgstr "Nueva receta"
+msgstr "Ajouter une recette"
 
 #: templates/recipe/recipe_form.html:55
 #, fuzzy
 msgid "recipe info"
-msgstr "Recetas en"
+msgstr "Recette info"
 
 #: templates/recipe/recipe_form.html:139
 #, fuzzy
 msgid "ingedients"
-msgstr "ingredientes"
+msgstr "ingrédients"
 
 #: templates/recipe/recipe_form.html:163
 #, fuzzy
 msgid "save recipe"
-msgstr "ver recetas"
+msgstr "sauvegarder la recette"
 
 #: templates/recipe/recipe_list.html:7
 #, python-format
@@ -788,12 +788,12 @@ msgstr ""
 #: templates/recipe/recipe_list.html:16
 #, fuzzy, python-format
 msgid "%(title)s"
-msgstr "título"
+msgstr "titre"
 
 #: templates/recipe/recipe_mail_body.html:13
 #, fuzzy
 msgid " has shared a recipe with you"
-msgstr "no ha añadido ningún recetas todavía!"
+msgstr "a partagé une cette avec vous"
 
 #: templates/recipe/recipe_print.html:24
 msgid "mintues"
@@ -801,332 +801,328 @@ msgstr "Mintues"
 
 #: templates/recipe/recipe_print.html:44
 msgid "Steps"
-msgstr "Pasos"
+msgstr "étapes"
 
 #: templates/recipe/recipe_userfav.html:32
 msgid "You have not added any favorite recipes yet!"
-msgstr "Usted no ha añadido ningún recetas favoritas todavía!"
+msgstr "Vous n'avez ajouté aucune receette favorite pour le moment!"
 
 #: templates/recipe/recipe_userlist.html:41
 msgid "has not added any recipes yet!"
-msgstr "no ha añadido ningún recetas todavía!"
+msgstr "n'a ajouté aucune receette favorite pour le moment!"
 
 #: templates/recipe_groups/course_form.html:9
 msgid "add course"
-msgstr "añadir curso"
+msgstr "ajouter un service"
 
 #: templates/recipe_groups/course_list.html:6
 msgid "Course List"
-msgstr "Curso de Lista"
+msgstr "Liste de courses"
 
 #: templates/recipe_groups/cuisine_list.html:6
 msgid "Cuisine List"
-msgstr "Lista de cocina"
+msgstr "Liste de cuisine"
 
 #: templates/recipe_groups/popadd.html:8
 msgid "Add"
-msgstr "Agregar"
+msgstr "Ajouter"
 
 #: templates/recipe_groups/popadd.html:12
 #, python-format
 msgid "Add %(field)s"
-msgstr "Añadir %(campo)s "
+msgstr "ajouter %(field)s "
 
 #: templates/recipe_groups/popadd.html:17
 msgid "submit"
-msgstr "presentar"
+msgstr "soumettre"
 
 #: templates/recipe_groups/popadd.html:17
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "Annuler"
 
 #: templates/recipe_groups/recipe_list.html:14
 msgid "Recipes in "
-msgstr "Recetas en"
+msgstr "Recette en"
 
 #: templates/registration/_create_form.html:5
 #: templates/registration/_login_form.html:5
 msgid "Alert!"
-msgstr ""
+msgstr "Alerte!"
 
 #: templates/registration/_create_form.html:46
 #, fuzzy
 msgid "create account"
-msgstr "crear una cuenta"
+msgstr "créer votre compte"
 
 #: templates/registration/_login_form.html:5
 msgid "Your username and password didn't match. Please try again."
-msgstr ""
+msgstr "Votre login et mot de pass sont incorrects. Veuillez réessayer"
 
 #: templates/registration/_login_form.html:26
 #, fuzzy
 msgid "login"
-msgstr "Registrarse"
+msgstr "login"
 
 #: templates/registration/activate.html:5
 msgid "Account activation key is invalid!"
-msgstr "clave de activación de la cuenta no es válido!"
+msgstr "Clefs d'activation de compte non valide"
 
 #: templates/registration/activation_complete.html:5
 msgid "Account now Active!"
-msgstr "Cuenta ahora Active!"
+msgstr "Compte non actif!"
 
 #: templates/registration/login.html:3
 #, fuzzy
 msgid "Login"
-msgstr "Registrarse"
+msgstr "Login"
 
 #: templates/registration/login.html:6
 msgid "create an account"
-msgstr "crear una cuenta"
+msgstr "créer un compte"
 
 #: templates/registration/logout.html:4
 msgid "You have been succesfully logged out!"
-msgstr "Se le ha cerrado la sesión con éxito!"
+msgstr "Correctement déconnecté!"
 
 #: templates/registration/password_change_done.html:4
 msgid "Password changed Succesful"
-msgstr "Contraseña cambiada con éxito"
+msgstr "Mot de passe modifié avec succès"
 
 #: templates/registration/password_change_done.html:5
 msgid "Your password was changed."
-msgstr "Su contraseña se ha cambiado."
+msgstr "Votre mot de passe est changé."
 
 #: templates/registration/password_reset_complete.html:4
 msgid "Password reset complete"
-msgstr "De restablecimiento de contraseña completa"
+msgstr "Réinitialisation du mot de passe effectué"
 
 #: templates/registration/password_reset_complete.html:5
 msgid "Your password has been set.  You may go ahead and log in now."
-msgstr ""
-"Su contraseña se ha establecido. Usted puede seguir adelante e iniciar "
-"sesión ahora."
+msgstr "Mot de passe enregistré. Vous pouvez vous connecter dès à présent."
+
 
 #: templates/registration/password_reset_complete.html:6
 msgid "Log in"
-msgstr "Registrarse"
+msgstr "Se connecter"
 
 #: templates/registration/password_reset_confirm.html:6
 msgid "Enter new password"
-msgstr "Escriba la nueva contraseña"
+msgstr "Entrer un nouveau mot de passe"
 
 #: templates/registration/password_reset_confirm.html:7
 msgid ""
 "Please enter your new password twice so we can verify you typed it in "
 "correctly."
-msgstr ""
-"Por favor, introduzca su nueva contraseña dos veces para que podamos "
-"verificar que la ha escrito correctamente."
+msgstr "Introduisez votre passe 2 fois pour vérification"
 
 #: templates/registration/password_reset_confirm.html:10
 msgid "New password:"
-msgstr "Nueva contraseña:"
+msgstr "Nouveau mot de passe:"
 
 #: templates/registration/password_reset_confirm.html:12
 msgid "Confirm password:"
-msgstr "Confirmar contraseña:"
+msgstr "Confirmer le mot de passe:"
 
 #: templates/registration/password_reset_confirm.html:13
 msgid "Change my password"
-msgstr "Cambiar mi contraseña"
+msgstr "Changer mon mot de passe"
 
 #: templates/registration/password_reset_confirm.html:16
 msgid "Password reset unsuccessful"
-msgstr "De restablecimiento de contraseña sin éxito"
+msgstr "Réinitialisation du mot de passe échouée"
 
 #: templates/registration/password_reset_confirm.html:17
 msgid ""
 "The password reset link was invalid, possibly because it has already been "
 "used. Please request a new password reset."
 msgstr ""
-"El enlace de restablecimiento de contraseña no es válida, posiblemente "
-"debido a que ya se ha utilizado. Por favor, solicitar un restablecimiento de "
-"la contraseña nueva."
+"Le lien de réinitalisation du mot de passe est invalide"
+"Demandez un nouveau lien de réinitialisation"
 
 #: templates/registration/password_reset_done.html:4
 msgid "Password reset successful"
-msgstr "De restablecimiento de contraseña con éxito"
+msgstr "Réinitialisation du mot de passe réussie"
 
 #: templates/registration/password_reset_done.html:5
 msgid ""
 "We've e-mailed a new password to the e-mail address you submitted. You "
 "should be receiving it shortly."
 msgstr ""
-"Hemos enviado por correo electrónico una nueva contraseña a la dirección de "
-"correo electrónico que envía. Usted debe estar recibiendo en breve."
+"Nous vous avons envoyé un courriel à l'adresse que vous nous avez donné."
+"Vous devriez le recevoir sous peu."
 
 #: templates/registration/password_reset_form.html:4
 msgid "Password reset"
-msgstr "De restablecimiento de contraseña"
+msgstr "Mot de passe rénitialisé"
 
 #: templates/registration/password_reset_form.html:5
 msgid ""
 "Forgotten your password? Enter your e-mail address below, and we'll reset "
 "your password and e-mail the new one to you."
 msgstr ""
-"¿Olvidó su contraseña? Ingrese su dirección de e-mail, y vamos a restablecer "
-"la contraseña y el correo electrónico el nuevo para usted."
+"Mot de passe oublié? Entrez votre courriel ci-dessous et nous allons"
+"rénitialiser votre mot des passe et l'envoyer par courriel."
 
 #: templates/registration/password_reset_form.html:8
 msgid "E-mail address:"
-msgstr "E-mail:"
+msgstr "Courriel:"
 
 #: templates/registration/password_reset_form.html:8
 #, fuzzy
 msgid "reset password"
-msgstr "Perdí mi contraseña"
+msgstr "Réinitialisé le mot de passe"
 
 #: templates/registration/registration_complete.html:5
 msgid "Activation Link Sent"
-msgstr "Activación de enlace enviado"
+msgstr "Lien d'activation envoyé"
 
 #: templates/registration/registration_complete.html:6
 msgid "Thank you for signing up for"
-msgstr "Gracias por inscribirse en"
+msgstr "Merci de vous être enregistrer pour"
 
 #: templates/registration/registration_complete.html:6
 #, fuzzy
 msgid "you have been emailed an activation link"
 msgstr ""
-"Gracias por inscribirse en OpenEats le han enviado por correo electrónico un "
-"enlace de activación"
+"Un lien d'activation vous a été envoyé par courriel"
+
 
 #: templates/relationships/confirm.html:4
 #: templates/relationships/confirm.html:7
 msgid "No longer"
-msgstr "Ya no"
+msgstr "Plus du tout"
 
 #: templates/relationships/confirm.html:12
 msgid "Confirm"
-msgstr "Confirmar"
+msgstr "Confirmer"
 
 #: templates/relationships/success.html:5
 msgid "Success"
-msgstr "Éxito"
+msgstr "Succès"
 
 #: templates/relationships/success.html:6
 msgid "You are "
-msgstr "Usted está"
+msgstr "Vous êtes"
 
 #: templates/relationships/success.html:6
 msgid "now"
-msgstr "ahora"
+msgstr "Maintenant"
 
 #: templates/relationships/success.html:6
 msgid "no longer"
-msgstr "ya no"
+msgstr "plus du tout"
 
 #: templates/relationships/success.html:7
 #, python-format
 msgid "%(to_user_username)s's profile"
-msgstr "% (To_user_username) el perfil de s"
+msgstr "au profil de %(to_user_username)s "
 
 #: templates/search/search.html:15
 msgid "Search Results"
-msgstr "Resultados de la búsqueda"
+msgstr "Resultats des recherches"
 
 #: templates/search/search.html:60
 msgid "No Results found for search query"
-msgstr "No se encontraron resultados para la consulta de búsqueda"
+msgstr "Pas de résultats trouvés pour la demande"
 
 #: templates/sidebar/browse.html:6
 msgid "last viewed"
-msgstr "última visita"
+msgstr "Dernière fois visualisé"
 
 #: templates/sidebar/browse.html:15
 msgid "browse"
-msgstr "ver"
+msgstr "parcourir"
 
 #: templates/sidebar/browse.html:16
 #, fuzzy
 msgid "top recipes"
-msgstr "recetas"
+msgstr "Meilleures recettes"
 
 #: templates/sidebar/browse.html:17
 #, fuzzy
 msgid "recent recipes"
-msgstr "ver recetas"
+msgstr "Recettes récentes"
 
 #: templates/sidebar/grocery.html:10
 msgid "actions"
-msgstr "acciones"
+msgstr "actions"
 
 #: templates/sidebar/grocery.html:11
 msgid "print "
-msgstr "de impresión"
+msgstr "Imprimer"
 
 #: templates/sidebar/grocery.html:12
 msgid "edit "
-msgstr "edición"
+msgstr "editer"
 
 #: templates/sidebar/grocery.html:13
 msgid "send list "
-msgstr "Enviar la lista"
+msgstr "Envoyer la liste"
 
 #: templates/sidebar/grocery.html:13
 msgid "email "
-msgstr "correo electrónico"
+msgstr "courriel"
 
 #: templates/sidebar/grocery.html:15
 msgid "delete "
-msgstr "eliminar"
+msgstr "effacer"
 
 #: templates/sidebar/grocery.html:19
 msgid "share"
-msgstr "compartir"
+msgstr "partager"
 
 #: templates/sidebar/grocery.html:21
 msgid "un-share"
-msgstr "sin cuota de"
+msgstr "ne plus partager"
 
 #: templates/sidebar/grocery.html:26
 #, fuzzy
 msgid "recipes on list"
-msgstr "Recetas en"
+msgstr "Recettes sur la liste"
 
 #: templates/sidebar/grocery.html:30
 #, fuzzy
 msgid "no recipes"
-msgstr "recetas"
+msgstr "pas de recettes"
 
 #: templates/sidebar/grocery.html:38
 msgid "create"
-msgstr "crear"
+msgstr "créer"
 
 #: templates/sidebar/grocery.html:39
 msgid "list"
-msgstr "lista"
+msgstr "liste"
 
 #: templates/sidebar/grocery.html:40
 msgid "manage aisles"
-msgstr "gestión de los pasillos"
+msgstr "gérer les AISLES"
 
 #: templates/sidebar/grocery.html:41
 msgid "browse recipes"
-msgstr "ver recetas"
+msgstr "visualiser les recettes"
 
 #: templatetags/front_page.py:14
 msgid "No Front page News"
-msgstr ""
+msgstr "Pas de page de garde"
 
 #: templatetags/front_page.py:15
 msgid "Currently not any front page news on this site"
-msgstr ""
+msgstr "Actuellement pas de page de garde pour ce site"
 
 #: templatetags/recipe_links.py:13
 msgid "bookmakred"
-msgstr "bookmakred"
+msgstr "signet"
 
 #: templatetags/recipe_links.py:15 templatetags/recipe_links.py:19
 #: templatetags/recipe_links.py:34
 msgid "favorite"
-msgstr "favoritos"
+msgstr "favoris"
 
 #: templatetags/recipe_links.py:28
 msgid "reported!"
-msgstr "informó!"
+msgstr "notifié!"
 
 #: templatetags/recipe_links.py:30
 msgid "report"
-msgstr "informe"
+msgstr "informé"
 
